@@ -39,6 +39,7 @@ public class SportDirectShoppingCartTests {
         maxPrice.sendKeys("35");
 
 
+
     }
 
 
