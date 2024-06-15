@@ -38,6 +38,7 @@ public class SportDirectShoppingCartTests {
         WebElement maxPrice = browser.findElement(MAX_PRICE);
         maxPrice.sendKeys("35");
 
+
     }
 
 
